@@ -1,0 +1,80 @@
+1.Pytanie:Co jest stolica Polski? 
+2.Odp popr:Warszawa
+3.Odp:Wieden
+4.Odp:Wilno
+1.Pytanie:Co oznacza arrow po angielsku?
+2.Odp popr:strzala
+3.Odp:luk
+4.Odp:miecz
+1.Pytanie:Ile to 2+3? 
+2.Odp popr:5 
+3.Odp:6
+4.Odp:7
+1.Pytanie:Maszyna Turinga powstala w?
+2.Odp popr:1936 
+3.Odp:1944
+4.Odp:1938
+1.Pytanie:Architekture Princeton charakteryzowalo
+2.Odp popr:von Neumann bottleneck
+3.Odp:Oddzielne pamieci programu i danych
+4.Odp:Oddzielne magistrale
+1.Pytanie:Prawo Moorea dotyczy
+2.Odp popr:liczby tranzystorow
+3.Odp:taksonomii Flynna
+4.Odp:systemow rownoleglych
+1.Pytanie:Superkomputer AGH nazywa sie
+2.Odp popr:Athena
+3.Odp:Frontier
+4.Odp:LUMI
+1.Pytanie:OWASP Top 10 dotyczy
+2.Odp popr:bezpieczenstwa aplikacji webowych
+3.Odp:metody obliczen algorytmow
+4.Odp:10 zasad dobrego programowania
+1.Pytanie:Najbardziej popularny typ ataku sql injection to
+2.Odp popr:Union-based SQL Injection
+3.Odp:Blind sqli
+4.Odp:Error Based SQL Injection
+1.Pytanie:Podatnosc XSS polega na
+2.Odp popr:wstrzyknieciu jezyka skryptowego
+3.Odp:nadpisaniu pamieci bufora programu
+4.Odp:przeciazeniu sieci poprzez zapytania
+1.Pytanie:Ktory z podanych kanalow nie zajmuja sie tematyka cyberbezpieczenstwa
+2.Odp popr:Programming with Mosh
+3.Odp:LiveOverflow
+4.Odp:ippsec
+1.Pytanie:Seria Max Payne zostala wydana przez
+2.Odp popr:Rockstar Games
+3.Odp:EA
+4.Odp:Bethesda
+1.Pytanie:Czy uzywanie polecenia gets() jest bezpieczne
+2.Odp popr:Nie
+3.Odp:Tak
+4.Odp:Tak, chociaz jest ono przestarzale
+1.Pytanie:Artykul kodeksu karnego mowiacy o hackingu to
+2.Odp popr:artykul 267
+3.Odp:artykul 119
+4.Odp:artykul 78
+1.Pytanie:RAM to skrot od
+2.Odp popr:Random Access Memory
+3.Odp:Remote Access Multiplier
+4.Odp:Really Accessible Mitigation
+1.Pytanie:Dokoncz zdanie "Dwuelementowa algebra ..."
+2.Odp popr:Boolea
+3.Odp:Honeckera
+4.Odp:Graya
+1.Pytanie:Atak XXE wykorzystuje podatnosc w przetwarzaniu
+2.Odp popr:XML
+3.Odp:PHP
+4.Odp:CSS
+1.Pytanie:Czy podatnosci XSS i CSRF to to samo
+2.Odp popr:Nie
+3.Odp:Tak
+4.Odp:XSS to poddziedzina CSRF
+1.Pytanie:Ksiazka Bezpieczenstwo aplikacji webowych zostala wydana przez
+2.Odp popr:zespol Sekuraka
+3.Odp:zespol zaufanejtrzeciejstrony
+4.Odp:zespol niebezpiecznika
+1.Pytanie:Zagadnienie zwane Heap Exploitation dotyczy
+2.Odp popr:obszaru pamieci uzywanego do dynamicznej alokacji pamieci
+3.Odp:Return Oriented Programming
+4.Odp:Podatnosci zwiazanej z format strings
